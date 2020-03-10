@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AulaINterface10032020</string>
+    <string name="home_string">homeicon</string>
+    <string name="info_string">infoicon</string>
+    <string name="nav_string">navicon</string>
+    <string name= "informacao" >Você está no Infnet!</string>
+</resources>
